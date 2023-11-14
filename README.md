@@ -45,5 +45,3 @@ Push to the branch: git push origin feature/your-feature-name
 
 Submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details. Feel free to modify and use the code as needed.
