@@ -48,4 +48,6 @@ Submit a pull request.
 
 # Screenshots
 ![image](https://github.com/Jassiesingh/gsap-practice/assets/69313938/1da781bd-184d-4e5c-8b75-8c82881b7ca4)
+![image](https://github.com/Jassiesingh/gsap-practice/assets/69313938/17eefa12-ac49-46c2-a0b5-3f763f3d4138)
+
 
