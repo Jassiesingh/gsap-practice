@@ -4,9 +4,13 @@ This repository contains the code for the Coucher clone website, a modern and st
 
 # Table of Contents
 Introduction
+
 Features
+
 Getting Started
+
 Usage
+
 Contributing
 
 # Introduction
