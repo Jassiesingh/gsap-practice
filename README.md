@@ -27,9 +27,9 @@ To get started with this project, follow these steps:
 
 Clone the repository:
 
-bash
+Open Git bash
 Copy code
-git clone https://github.com/Jassiesingh/gsap-practice.git
+git clone via http: https://github.com/Jassiesingh/gsap-practice.git
 Open the project in your preferred code editor.
 
 Explore the HTML, CSS, and JavaScript files to understand the structure and functionality.
